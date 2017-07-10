@@ -9,4 +9,9 @@ img {
     margin-bottom: 10px;
 }
 
+.grid {
+  background: #982398;
+  counter-reset: grid-item;
+}
+
 
