@@ -1,3 +1,7 @@
+body {
+    background-color: black
+}
+
 img {
     width: 500px;
     height: auto;
@@ -11,7 +15,7 @@ img {
 }
 
 .grid {
-  background: #982398;
+  background: black;
   counter-reset: grid-item;
   margin: 0 auto;
 }
