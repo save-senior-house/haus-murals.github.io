@@ -12,6 +12,7 @@ img {
 .grid {
   background: #982398;
   counter-reset: grid-item;
+  margin: 0 auto;
 }
 
 
