@@ -5,7 +5,6 @@ img {
 
 .grid-item {
     width: 200px;
-    min-height: 120px;
     max-height: auto;
     margin-bottom: 10px;
 }
